@@ -21,15 +21,10 @@ Correlation analysis of the features reveals:
 * **Recency Trend**: There is a significant positive correlation (0.42) with the **Year Built**, indicating that newer homes generally command higher prices.
 * **Stability**: The garage size and bathroom count have a positive, though less dominant, influence compared to total living space.
 
-## 🔢 Linear Regression General Equation
+## 🔢 Linear Regression
 The model represents the relationship between features and price using the general linear form:
 
 $$Y = \beta_0 + \beta_1X_1 + \beta_2X_2 + ... + \beta_nX_n + \epsilon$$
-
-### Specific Model Equation
-Based on the trained coefficients, the price is calculated as:
-
-$$Price = (50,591.45 \times \text{Bedrooms}) + (28,057.36 \times \text{Bathrooms}) + (1,010.94 \times \text{Square\_Feet}) + (1,104.28 \times \text{Garage\_Size}) + (1,471.97 \times \text{Year\_Built}) - 2,713,589.08$$
 
 ## 🚀 Model Performance
 The model shows high predictive accuracy on the test dataset:
