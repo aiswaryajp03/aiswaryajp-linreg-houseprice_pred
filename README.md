@@ -1,5 +1,5 @@
 # aiswaryajp-linreg-houseprice_pred
-# Real Estate Price Prediction
+# House Price Prediction
 
 This project implements a **Linear Regression** model to estimate residential property values based on key physical attributes and historical data.
 
