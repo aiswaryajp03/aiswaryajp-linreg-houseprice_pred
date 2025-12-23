@@ -46,4 +46,3 @@ The project provides several assets to validate the model's reliability:
 3.  **Implementation**: The full workflow from data cleaning to model training is documented in `houseprice_.ipynb`.
 
 ---
-*Generated based on the analysis of provided Real Estate data.*
